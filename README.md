@@ -1,4 +1,4 @@
-# array.prototype.range
+# Array.prototype.range
 adds ability to create array from provided range
 
 #Usage
