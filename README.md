@@ -1,11 +1,11 @@
 # Array.prototype.range
 adds ability to create array from provided range
 
-#Usage
+# Usage
 
 `Array.range(start, [end, [step]])`
 
-#Example
+# Example
 
 `Array.range(1, 7, 2); // [1, 3, 5]`
 
